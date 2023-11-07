@@ -1,0 +1,5 @@
+package com.employ.repository;
+
+public class EmpRepository {
+
+}
